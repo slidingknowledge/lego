@@ -12,3 +12,4 @@ Because it is techincally possible.
 - Artificial Convolutional Neural Network / Yolo for detection and identification
 - Windows for OS
 - Images for training and detection
+- Nvidia GPU
