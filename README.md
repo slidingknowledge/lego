@@ -13,3 +13,11 @@ Because it is techincally possible.
 - Windows for OS
 - Images for training and detection
 - Nvidia GPU
+## Datatset
+  Current Dataset Counts 2024-08-01
+  ### Labels
+  Validation: 488,512
+  Training: 1,905,463
+  ## Images
+  Validation: 24,807
+  Training: 97,168
